@@ -14,7 +14,7 @@
 #include <jpeglib.h>
 #include <libexif/exif-data.h>
 
-#include "config.h"
+//#include "config.h"
 
 typedef struct _epeg_error_mgr *emptr;
 
